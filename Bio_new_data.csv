@@ -1,0 +1,54 @@
+loinc_num,long_common_name,component,system,property
+2499-2,Iron binding capacity.total [Mass/volume],Iron binding capacity.total,Serum/Plasma,MCnc
+14632-7,Calcium [Moles/volume] in Urine,Calcium,Urine,SCnc
+804-5,Leukocytes [#/volume] in Cerebral spinal fluid,Leukocytes,Cerebral spinal fluid,NCnc
+1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Blood,SCnc
+33765-9,Platelet aggregation [Presence],Platelet aggregation,Platelet rich plasma,PrThr
+2069-3,Chloride [Moles/volume] in Blood,Chloride,Blood,SCnc
+41655-2,Iron [Mass/volume] in Capillary blood,Iron,Capillary blood,MCnc
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Serum/Plasma,CCnc
+2498-4,Iron [Mass/volume] in Serum or Plasma,Iron,Serum/Plasma,MCnc
+30439-4,Iron [Mass/volume] in Venous blood,Iron,Venous blood,MCnc
+13457-3,Platelets [#/volume] in Blood by Flow cytometry,Platelets,Blood,NCnc
+41651-1,Platelets [#/volume] in Capillary blood,Platelets,Capillary blood,NCnc
+2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Serum/Plasma,SCnc
+17849-6,Platelets [#/volume] in Body fluid,Platelets,Body fluid,NCnc
+1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Serum/Plasma,SCnc
+14800-6,Iron binding capacity [Mass/volume] in Serum or Plasma,Iron binding capacity,Serum/Plasma,MCnc
+18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc
+2500-7,Iron [Mass/volume] in Blood,Iron,Blood,MCnc
+41652-9,Calcium [Mass/volume] in Capillary blood,Calcium,Capillary blood,MCnc
+1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Serum/Plasma,MCnc
+777-3,Platelets [#/volume] in Blood by Automated count,Platelets,Blood,NCnc
+1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Serum/Plasma,MCnc
+20507-9,Platelet distribution width [Ratio],Platelet distribution width,Blood,Ratio
+17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Serum/Plasma,MCnc
+13056-7,Platelets [#/volume] in Blood by Impedance,Platelets,Blood,NCnc
+2345-7,Glucose [Mass/volume] in Blood,Glucose,Blood,MCnc
+14801-4,Iron saturation [Mass Fraction] in Serum or Plasma,Iron saturation,Serum/Plasma,MFr
+19208-5,Platelet factor 4 [Mass/volume],Platelet factor 4,Plasma,MCnc
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Serum/Plasma,CCnc
+32623-1,Platelets [#/volume] in Blood from Donor,Platelets,Blood,NCnc
+2571-8,Ferritin [Mass/volume] in Serum,Ferritin,Serum,MCnc
+59162-6,Platelet adhesion [Time],Platelet adhesion,Blood,Time
+26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Blood,NCnc
+14631-9,Calcium [Mass/volume] in Urine,Calcium,Urine,MCnc
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Serum/Plasma,MCnc
+2501-5,Iron [Mass/volume] in Body fluid,Iron,Body fluid,MCnc
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Serum/Plasma,MCnc
+25741-8,Platelet mean volume [Entitic volume],Platelet mean volume,Blood,EntiticVol
+26515-7,Platelets [#/volume] in Blood by Manual count,Platelets,Blood,NCnc
+22487-9,Bilirubin.total [Mass/volume] in Blood,Bilirubin,Blood,MCnc
+806-0,Leukocytes [#/volume] in Urine,Leukocytes,Urine,NCnc
+35187-4,Calcium [Mass or Moles/volume] in Serum or Plasma,Calcium,Serum/Plasma,MSCnc
+29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Serum/Plasma,SCnc
+58429-6,Hemoglobin [Mass/volume] in Blood,Hemoglobin,Blood,MCnc
+35216-5,Iron [Mass or Moles/volume] in Serum or Plasma,Iron,Serum/Plasma,MSCnc
+10834-0,Transferrin [Mass/volume] in Serum,Transferrin,Serum,MCnc
+13857-1,Glucose [Moles/volume] in Blood,Glucose,Blood,SCnc
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Serum/Plasma,MCnc
+14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Serum/Plasma,SCnc
+30429-5,Platelet antibody [Presence],Platelet antibody,Serum,PrThr
+41689-1,White blood cells [#/volume] in Blood,Leukocytes,Blood,NCnc
+19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Serum/Plasma,CCnc
